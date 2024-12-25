@@ -1,0 +1,1 @@
+The "Online Book Ordering System" is a command-line application developed as a project for an operating system laboratory. The primary goal is to demonstrate the integration of basic operating system commands and scripting using Bash in Linux. This system allows users to interact with a virtual bookstore, browse books, place orders, and view order history.
